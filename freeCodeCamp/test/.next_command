@@ -431,3 +431,12 @@ cd images
 touch backgroud.jpeg
 cd ..
 rm images/background.jpg
+rmdir images
+cd images
+ls --color=auto
+cd ..
+rm images/background.jpeg
+rm images/backgrond.jpg
+rm images/backgroud.jpeg
+mkdir images
+rmdir images
