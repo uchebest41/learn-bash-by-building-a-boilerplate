@@ -447,3 +447,4 @@ mv CodeAlly.svg client/assets/icons
 __vsc_prompt_cmd_original
 touch CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
+find
