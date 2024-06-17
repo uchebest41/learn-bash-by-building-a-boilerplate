@@ -32,3 +32,4 @@ pwd
 \ls
 cd test
 pwd
+ls --color=auto
