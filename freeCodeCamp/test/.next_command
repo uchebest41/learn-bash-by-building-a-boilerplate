@@ -33,3 +33,5 @@ pwd
 cd test
 pwd
 ls --color=auto
+cd..
+cd ..
