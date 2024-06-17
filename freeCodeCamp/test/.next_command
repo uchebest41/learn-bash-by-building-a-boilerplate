@@ -48,3 +48,11 @@ ls --color=auto -l node_modules
 cd has
 __vsc_prompt_cmd_original
 ls --color=auto
+more README.md
+e_modules/README.md
+more node_modules/README.md
+more node_modules/README.md
+cat node_modules/README.md
+more
+more --help
+more README.md
