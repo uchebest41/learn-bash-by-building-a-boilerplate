@@ -227,3 +227,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd /workspace/project/website
 touch background.jp
 touch background.jpg
+touch header.png
