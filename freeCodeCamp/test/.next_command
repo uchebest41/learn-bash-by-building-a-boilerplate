@@ -117,3 +117,8 @@ cd /workspace/project/freeCodeCamp
 ls --color=auto
 cd /workspace/project/freeCodeCamp/node_modules/has
 ls --color=auto
+more LICENSE-MI
+more LICENSE-MI
+more LICENSE
+more LICENSE-MIT
+__vsc_prompt_cmd_original
