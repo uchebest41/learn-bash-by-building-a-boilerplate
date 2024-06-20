@@ -469,3 +469,4 @@ rm REEADME.md
 touch README.md
 ls --color=auto
 echo Yay!
+echo I finished the boilerplate!
