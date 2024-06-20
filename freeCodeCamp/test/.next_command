@@ -389,3 +389,4 @@ cd /workspace/project/website
 ls --color=auto
 mkdir images
 cd images
+ls --color=auto
