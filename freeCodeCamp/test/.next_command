@@ -415,3 +415,9 @@ ls --color=auto
 find -name images
 mv header.png client/assets/images
 find -name header.png
+mv images/footer.jpeg client/assets/images
+cd images
+touch footer.jpeg
+cd ..
+mv images/footer.jpeg client/assets/images
+find -name footer.jpeg
