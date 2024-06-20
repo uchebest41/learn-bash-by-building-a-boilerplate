@@ -467,3 +467,4 @@ touch server.js
 touch REEADME.md
 rm REEADME.md
 touch README.md
+ls --color=auto
