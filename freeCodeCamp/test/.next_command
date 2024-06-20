@@ -347,3 +347,11 @@ find
 cd client
 mkdir assets
 cd assets
+mv images assets
+cd ..
+cd ..
+mv images assets
+cd clients
+cd client
+cd assets
+mkdir images
