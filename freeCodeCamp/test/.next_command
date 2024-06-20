@@ -358,3 +358,34 @@ mkdir images
 cd images
 touch background.jpg
 cd ../../..
+cd images
+ls --color=auto
+cd assets
+ls --color=auto
+cd /workspace/project/website/images
+cd ../../../../
+cd /workspace/project/website/images
+cd assets
+ls --color=auto
+cd workspace
+cd asset
+cd poject
+cd project
+cd website
+cd asset
+cd assets
+ls --color=auto
+find
+mv images website
+cd ../../..
+cd images
+mkdir images
+cd images
+cd ..
+cd /workspace/project/website/images
+rm images
+rmdir images
+cd /workspace/project/website
+ls --color=auto
+mkdir images
+cd images
