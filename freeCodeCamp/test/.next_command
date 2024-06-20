@@ -441,3 +441,4 @@ rm images/backgroud.jpeg
 mkdir images
 rmdir images
 ls --color=auto
+mkdir client/assets/icons
