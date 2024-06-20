@@ -390,3 +390,22 @@ ls --color=auto
 mkdir images
 cd images
 ls --color=auto
+mv header.png website
+cd ..
+cd assets
+ls --color=auto
+mv header.png images
+mv footer.jpeg images
+mv background.jpeg images
+cd ..
+cd images
+ls --color=auto
+cd ..
+cd assets
+ls --color=auto
+cd..
+cd ..
+mv images images
+cd images
+touch header.png
+mv header.png ..
