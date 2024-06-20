@@ -424,3 +424,10 @@ find -name footer.jpeg
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+rm images/background.jpg
+cd images
+mkdir images
+cd images
+touch backgroud.jpeg
+cd ..
+rm images/background.jpg
